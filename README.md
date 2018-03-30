@@ -15,5 +15,5 @@
 |13:00 - 13:15 | MadDash checking and tuning discussions|
 |13:15 - 14:00 | TCP stack / Tuning / Induction of problems  (troubleshooting)|
 |14:00 - 15:00 | DTN Demo / Lab etc...|
-|15:00 - 15:15 | break if needed|
-|15:00 - 16:00 | MaDDASH review, Closing comment and questions, final debugging, and hand of nodes|
+|15:00 - 15:15 | break if needed |
+|15:00 - 16:00 | MaDDASH review, Closing comment and questions, final debugging, and hand off nodes|
