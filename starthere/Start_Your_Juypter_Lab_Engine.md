@@ -1,9 +1,9 @@
 ﻿# JuypterLab Notebook Engine Basics
 
 
-##GOAL: launch the juypter-lab environment.
+## GOAL: launch the juypter-lab environment.
 
-###Procedure:
+### Procedure:
 
 #### Step 1 -  ssh into your node:
 ```
