@@ -9,11 +9,15 @@
 ```
 ssh -A -l root gpn-workshop-node###.gpn.lan
 ```
-#### Step 2 - copy out the latest start-juypter.sh script out of the git repo:
+#### Step 2 - Clone the repo
+```
+git clone https://github.com:GreatPlainsNetwork/20180601-FIONAworkshop.git
+```
+#### Step 3 - copy out the latest start-juypter.sh script out of the git repo:
 ```
 cp 20180601-FIONAworkshop/misc/start-juypter.sh .
 ```
-#### Step 3 -  Make it executable and launch juypterlab via the start-juypter script:
+#### Step 4 -  Make it executable and launch juypterlab via the start-juypter script:
 ```
 chmod u+x start-juypter.sh
 ./start-juypter.sh
