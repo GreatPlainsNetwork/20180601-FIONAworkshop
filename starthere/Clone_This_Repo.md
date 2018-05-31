@@ -11,7 +11,7 @@ ssh -A -l root gpn-workshop-node13.gpn.lan
 
 #### Step 2 - Clone the repo
 ```
-git clone https://github.com:GreatPlainsNetwork/20180601-FIONAworkshop.git
+git clone https://github.com/GreatPlainsNetwork/20180601-FIONAworkshop.git
 ```
 
 #### Step 3 - Update your .gitconfig
