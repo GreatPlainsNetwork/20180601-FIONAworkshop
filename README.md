@@ -4,7 +4,7 @@
 | Time  | Topic |
 | ------------- | ------------- |
 | 8:00 - 8:30 | Logistics|
-| 8:30 - 8:45 | SSH connectivity|
+| 8:30 - 8:45 | SSH connectivity, Security, Grab the repo |
 | 9:00 - 10:00 | Interactive Lab1 - perfSONAR (juypter lab based)|
 |10:00 - 10:15 | break |
 |10:15 - 11:00 | final Lab1 and Q&A|
