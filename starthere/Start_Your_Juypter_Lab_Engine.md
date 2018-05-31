@@ -11,7 +11,7 @@ ssh -A -l root gpn-workshop-node###.gpn.lan
 ```
 #### Step 2 - Clone the repo
 ```
-git clone https://github.com:GreatPlainsNetwork/20180601-FIONAworkshop.git
+yum -y install git && git clone https://github.com:GreatPlainsNetwork/20180601-FIONAworkshop.git
 ```
 #### Step 3 - copy out the latest start-juypter.sh script out of the git repo:
 ```
