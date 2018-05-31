@@ -13,8 +13,9 @@ ssh -A -l root gpn-workshop-node###.gpn.lan
 ```
 cp 20180601-FIONAworkshop/misc/start-juypter.sh .
 ```
-#### Step 3 -  launch juypterlab via the start-juypter script:
+#### Step 3 -  Make it executable and launch juypterlab via the start-juypter script:
 ```
+chmod u+x start-juypter.sh
 ./start-juypter.sh
 ```
 
