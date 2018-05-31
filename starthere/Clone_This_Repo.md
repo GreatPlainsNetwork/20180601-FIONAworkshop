@@ -6,11 +6,12 @@
 
 #### Step 1 - Change to a directory as a landing zone.
 ```
+mkdir -p ~/Documents/GPN-Workshop/
 cd ~/Documents/GPN-Workshop/
 ```
 #### Step 2 - Clone the repo
 ```
-git clone git@github.com:GreatPlainsNetwork/20180601-FIONAworkshop.git
+git clone https://github.com/GreatPlainsNetwork/20180601-FIONAworkshop.git
 ```
 #### Step 3 - Enjoy and improve the repo
 ```
