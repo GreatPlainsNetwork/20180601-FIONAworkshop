@@ -47,6 +47,7 @@ Describe your nodes in the manifest configuratons directory:
 vim /etc/puppetlabs/code/environments/production/manifests/nodes.pp
 ```
 Example of a node definition that has a catch all default section and a Ruby-Regex match for a workshop node:
+```
 node default {
   class { 'juypterlab' : }
   class { 'gpnlab' : }
